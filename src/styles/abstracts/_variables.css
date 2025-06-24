@@ -1,0 +1,22 @@
+:root {
+  /* Fonts */
+  --font-primary: "Inter";
+  --font-serif: sans-serif;
+
+  /* Container */
+  --container-width: 1170px;
+  --container-padding: 30px;
+  --container-side-padding: calc(var(--container-padding) / 2);
+
+  /* Font weights */
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-800: #374151;
+  --color-gray-700: #6b7280;
+  --color-gray-100: #f3f4f6;
+}
